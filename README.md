@@ -12,7 +12,7 @@ My goal is to find an organization where I can develop all my knowledge in Data 
 <div align="center" style="margin-bottom: 10px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="Python" style="max-width: 100%; margin-right: 10px;">
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/mysql.svg" alt="MySql" style="width: 107px; height: 32px; margin-right: 10px;">
-  <img src="https://github.com/HaiderInfante/HaiderInfante/blob/main/power-bi-vector-logo-small.png" alt="Power BI" style="width: 107px; height: 32px; margin-right: 10px;">
+  <img src="https://github.com/HaiderInfante/HaiderInfante/blob/main/microsoft-power-bi4194.jpg" alt="Power BI" style="width: 107px; height: 32px; margin-right: 10px;">
   <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" alt="Machine Learning" style="width: 107px; height: 32px; margin-right: 10px;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/google_cloud_platform.svg" alt="GCP" style="max-width: 100%; margin-right: 10px;">
 </div>
