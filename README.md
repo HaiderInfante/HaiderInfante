@@ -14,6 +14,7 @@ My goal is to find an organization where I can develop all my knowledge in Data 
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/mysql.svg" alt="MySql" style="width: 107px; height: 32px; margin-right: 10px;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/google_cloud_platform.svg" alt="GCP" style="max-width: 100%; margin-right: 10px;">
 </div>
+
 ## Contact
 <div align="center">
   <a href="https://www.linkedin.com/in/haiderinfante/">
